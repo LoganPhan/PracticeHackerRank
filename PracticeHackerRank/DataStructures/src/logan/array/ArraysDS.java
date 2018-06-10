@@ -1,7 +1,7 @@
 /**
  * 
  */
-package logan;
+package logan.array;
 
 /**
  * @author longphan

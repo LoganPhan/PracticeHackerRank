@@ -1,4 +1,4 @@
-package logan;
+package logan.array;
 
 import java.util.Collections;
 import java.util.HashSet;
